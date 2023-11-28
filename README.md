@@ -3,3 +3,6 @@ The Peer Recovery Program (PRP) provides recovery support services for all patie
 
 # Project Summary
 To gauge the efficacy of the Institute for Prevention and Recovery's PRP program, the data collected from RWJBaranabas Health's hospitals-based recovery specialists will be coded and submitted in a format supplied via the Government Performance and Supplies Act (GPRA).
+
+# Methods
+To complete the project I utilized the python coding language using a variety of data manipulation methods and functions, creating six (6) distinct dataframes and joining them on a the unique identifier, 'ClientID', shared across all six (6) dataframes to create a complete file for submission. Additionally, there was some data clean up and manipulation done in excel as well done to refine the final file further.
