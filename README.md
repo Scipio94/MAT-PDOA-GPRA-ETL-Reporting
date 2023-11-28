@@ -1,2 +1,5 @@
-# PRP-GPRA-Reporting
-GPRA reporting for RWJBaranbas PRP initiative
+# Peer Recovery Program Overview
+The Peer Recovery Program (PRP) provides recovery support services for all patients who present with substance use disorder, to include opioid use disorder, in our emergency departments and on our inpatient floors. The program serves participating RWJBarnabas Health hospitals, 24 hours a day, 7 days per week through full-time, hospital-based recovery specialists. Funding is provided by the New Jersey Department of Health, Division of Mental Health and Addiction Services. The Peer Recovery Program is an initiative of the Tackling Addiction Task Force. The Peer Recovery Program is funded by the New Jersey Department of Human Services, Division of Mental Health and Addiction Services.
+
+# Project Summary
+To gauge the efficacy of the Institute for Prevention and Recovery's PRP program, the data collected from RWJBaranabas Health's hospitals-based recovery specialists will be coded and submitted in a format supplied via the Government Performance and Supplies Act (GPRA).
