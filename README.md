@@ -5,5 +5,7 @@ The Peer Recovery Program (PRP) provides recovery support services for all patie
 MAT-PDOA stands for Medication-Assisted Treatment – Prescription Drug and Opioid Addiction. It's a grant program that helps expand access to medication-assisted treatment (MAT) for people with opioid use disorder (OUD)
 
 ### Updates
-Sex column added 7/7/2025
+- Sex column added 7/7/2025
+  -  Based on the 'WHAT_DO_YOU_CONSIDER_YOURSELF_TO_BE' column only to be completed at intakes.
+
 
